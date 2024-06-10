@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hIQRhsw3oOAbzDRKmdvGervs8yhHRQJPWQDN9/1n1gnwaTzRsqFFQ592ZbmNw/SsGWTvPiW6t1W4NrJ/B6cMrw==",
+  "success": true,
+  "projectFilePath": "/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/ProcessMonitor.csproj",
+  "expectedPackageFiles": [
+    "/Users/andreea/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

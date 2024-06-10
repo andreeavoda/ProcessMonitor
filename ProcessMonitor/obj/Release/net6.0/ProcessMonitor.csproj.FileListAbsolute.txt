@@ -1,0 +1,17 @@
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/ProcessMonitor
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/ProcessMonitor.deps.json
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/ProcessMonitor.runtimeconfig.json
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/ProcessMonitor.dll
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/ProcessMonitor.pdb
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/bin/Release/net6.0/CommandLine.dll
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.csproj.AssemblyReference.cache
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.AssemblyInfoInputs.cache
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.AssemblyInfo.cs
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.csproj.CoreCompileInputs.cache
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.csproj.CopyComplete
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.dll
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/refint/ProcessMonitor.dll
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.pdb
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ProcessMonitor.genruntimeconfig.cache
+/Users/andreea/ProcessMonitor/ProcessMonitor/ProcessMonitor/obj/Release/net6.0/ref/ProcessMonitor.dll
